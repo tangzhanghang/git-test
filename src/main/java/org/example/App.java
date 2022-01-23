@@ -15,7 +15,6 @@ public class App
         System.out.println( "master22222222" );
         System.out.println( "hot222222222222" );
         System.out.println( "push test0" );
-        System.out.println( "push test0" );
         System.out.println( "github" );
     }
 }
