@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!hot" );
         System.out.println( "master" );
+        System.out.println( "hot" );
     }
 }
