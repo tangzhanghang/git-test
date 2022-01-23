@@ -17,5 +17,6 @@ public class App
         System.out.println( "push test0" );
         System.out.println( "github" );
         System.out.println( "gitee test" );
+        System.out.println( "gitee test2" );
     }
 }
