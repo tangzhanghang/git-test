@@ -13,5 +13,7 @@ public class App
         System.out.println( "master" );
         System.out.println( "hot" );
         System.out.println( "master22222222" );
+        System.out.println( "hot222222222222" );
+
     }
 }
