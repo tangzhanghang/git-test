@@ -16,5 +16,6 @@ public class App
         System.out.println( "hot222222222222" );
         System.out.println( "push test0" );
         System.out.println( "github" );
+        System.out.println( "gitee test" );
     }
 }
